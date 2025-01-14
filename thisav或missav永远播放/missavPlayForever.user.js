@@ -6,7 +6,7 @@
 // @namespace https://www.lowoneko.eu.org/
 // @author lowo
 // @license AGPL-3.0
-// @version 1.0.5
+// @version 1.0.6
 
 // @match        https://missav.com/*
 // @match        https://missav.ws/*
