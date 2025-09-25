@@ -9,6 +9,7 @@
 // @version 1.0.6
 
 // @match        https://missav.com/*
+// @match        https://missav.live/*
 // @match        https://missav.ws/*
 // @match        https://missav.ai/*
 // @match        https://thisav.com/*
